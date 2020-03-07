@@ -9,4 +9,4 @@ def cli(ctx):
     ctx.obj['clients_table'] = CLIENT_TABLE
 
 
-cli.add_command(clients_commands.all)
+cli.add_command(clients_commands.all) 

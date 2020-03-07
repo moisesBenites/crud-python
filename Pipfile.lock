@@ -1,0 +1,24 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "584b81dc9295ca728fcfbdf6e8c7b10ea365787948a8776ef4dcf64069ccee68"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "ventas": {
+            "path": "."
+        }
+    },
+    "develop": {}
+}
